@@ -1,5 +1,5 @@
 # Web Scaffold
-My current best web scaffold
+My current best web scaffold (angular focused)
 
 ## Quick start
 Modify package.json to match your project information and run `npm install`  This will also run `bower install`
