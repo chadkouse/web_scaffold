@@ -1,4 +1,4 @@
-# web_scaffold
+# Web Scaffold
 My current best web scaffold
 
 ## Quick start
