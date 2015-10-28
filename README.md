@@ -13,3 +13,13 @@ run `npm start` to build and launch your web app.  Changes to the code will relo
 
 ## Build for production
 run `grunt build` and your output will appear in the `dist` folder ready for production.
+
+## What it does for you
+
+1. Minify javascript
+1. Compile less to css
+1. Minify css
+1. Minify images
+1. replace `@@timestamp` with current timestamp in all source files (for cache busting)
+1. remove javascript console logging
+1. live reload on source changes
